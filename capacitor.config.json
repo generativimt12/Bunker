@@ -1,0 +1,12 @@
+{
+  "appId": "com.generativimt12.bunker",
+  "appName": "Bunker Conquest",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
